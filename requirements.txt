@@ -1,0 +1,4 @@
+esprima
+bs4
+Pillow
+piexif
